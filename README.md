@@ -8,11 +8,11 @@ As três tecnologias mencionadas utilizam a GPT-3 (*Generative Pre-Training Tran
 
 https://www.youtube.com/paulosalvatore
 
-## Acessando o código gerado
+## Visualizando o resultado
 
-Para acessar o código, abra o link a seguir:
+O site com o resultado está disponível no link a seguir:
 
-https://github.com/paulosalvatore/poc-ia-simpsons
+https://paulosalvatore.github.io/poc-ia-simpsons
 
 ![Preview do site gerado](docs/preview-site.png)
 
