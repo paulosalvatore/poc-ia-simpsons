@@ -379,6 +379,6 @@ https://paulosalvatore.github.io/poc-ia-simpsons/
 
 ## Conclusão
 
-Após a realização desse exercício, é possível notar o potencial das ferramentas de inteligência artificial (IA) e confirmar que estamos vivendo uma era única, em que boa parte do trabalho manual que seria feito na produção desse site foi delegado para um software. Através das sugestões corretas, a IA consegue gerar códigos bem funcionais, mesmo que precisem de um ajuste ou outro.
+Após a realização desse exercício, é possível notar o potencial das ferramentas de inteligência artificial (IA), confirmando que estamos vivendo uma era única, em que boa parte do trabalho manual da produção desse site, foi delegado para um software. Através das sugestões corretas, a IA consegue gerar códigos bem funcionais, mesmo que precisem de um ajuste ou outro.
 
 Com certeza utilizarei essa ferramenta em várias outras criações e passarei a incluí-la no meu dia a dia criando aplicações e conteúdos educacionais.
