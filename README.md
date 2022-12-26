@@ -311,6 +311,8 @@ Hora de conferir o resultado. Note que o caminho gerado para as imagens não fun
 
 ![Preview do código com Bootstrap](docs/preview-bootstrap.png)
 
+## Imagens quebradas, como resolver?
+
 ### Resolvendo as imagens com ChatGPT
 
 Para contornar isso, decidi pedir a URL para uma imagem do Homer. Nesse ponto, eu já imaginava que esse resultado não viria, pois o ChatGPT evita trazer links de recursos externos. No entanto, como ela gerou a URL completa do Bootstrap, decidi fazer uma tentativa.
@@ -369,9 +371,11 @@ Bravo, bravo!! 👏👏 Gostei da terceira imagem, então decidi realizar um *Up
 
 Agora que as palavras-chaves foram escolhidas, o próximo passo foi escolher as imagens dos outros Simpsons, seguindo a mesma linha de raciocínio, mudando palavras-chave de acordo com o entendimento da IA e tentando trazer a mesma linha de design para todas as personagens.
 
-### Publicando o resultado
+## Publicando o resultado
 
-Após salvar todas as imagens na pasta do projeto, subi o repositório no GitHub e ativei o GitHub Pages.
+Após salvar todas as imagens na pasta do projeto, subi o repositório no GitHub e ativei o GitHub Pages, disponível no link a seguir:
+
+https://paulosalvatore.github.io/poc-ia-simpsons/
 
 ## Conclusão
 
