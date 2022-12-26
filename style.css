@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  color: #333333;
+  background-color: #ffffff;
+}
+
+h1,
+h2 {
+  text-align: center;
+  color: #ff0000;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 20px 0;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  font-size: 14px;
+  margin: 10px 0;
+}
