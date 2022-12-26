@@ -45,12 +45,12 @@ Após abrir o [Chat da OpenAI](https://chat.openai.com/), a seguinte conversa fo
 
 > **Chat OpenAI:** Claro! Aqui estão alguns outros exemplos de profecias dos Simpsons que aconteceram na vida real:
 >
-> 1. O episódio "Marge in Chains" (1993), em que Springfield é afetada por uma epidemia de gripe, previu a pandemia de gripe H1N1 de 2009.
-> 2. O episódio "Homer's Phobia" (1997), em que Homer se torna um colecionador de antiguidades, previu o aumento da popularidade de programas de TV como "Antiques Roadshow".
-> 3. O episódio "Bart to the Future" (2000), em que Lisa Simpson é eleita presidente dos Estados Unidos, também previu o aumento da polarização política nos EUA.
-> 4. O episódio "Bart's Girlfriend" (1994), em que o personagem principal, Bart Simpson, é expulso da escola, previu o aumento da preocupação com a segurança escolar nos EUA após os tiroteios em escolas.
-> 5. O episódio "Homer's Phobia" (1997), em que Homer se torna um colecionador de antiguidades, também previu o aumento da popularidade de programas de TV como "American Pickers" e "Pawn Stars".
-> 6. O episódio "The Computer Wore Menace Shoes" (2001), em que Homer cria um site de notícias, previu o surgimento de sites de notícias online, como o Huffington Post e o Buzzfeed.
+> 5. O episódio "Marge in Chains" (1993), em que Springfield é afetada por uma epidemia de gripe, previu a pandemia de gripe H1N1 de 2009.
+> 6. O episódio "Homer's Phobia" (1997), em que Homer se torna um colecionador de antiguidades, previu o aumento da popularidade de programas de TV como "Antiques Roadshow".
+> 7. O episódio "Bart to the Future" (2000), em que Lisa Simpson é eleita presidente dos Estados Unidos, também previu o aumento da polarização política nos EUA.
+> 8. O episódio "Bart's Girlfriend" (1994), em que o personagem principal, Bart Simpson, é expulso da escola, previu o aumento da preocupação com a segurança escolar nos EUA após os tiroteios em escolas.
+> 9. O episódio "Homer's Phobia" (1997), em que Homer se torna um colecionador de antiguidades, também previu o aumento da popularidade de programas de TV como "American Pickers" e "Pawn Stars".
+> 10. O episódio "The Computer Wore Menace Shoes" (2001), em que Homer cria um site de notícias, previu o surgimento de sites de notícias online, como o Huffington Post e o Buzzfeed.
 >
 > Essas são apenas algumas das muitas profecias dos Simpsons que aconteceram na vida real. É importante lembrar que essas profecias aconteceram porque os criadores dos Simpsons são muito observadores e têm um bom senso de humor, e não porque eles têm algum tipo de poder sobrenatural.
 
