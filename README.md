@@ -363,7 +363,7 @@ Eita, não tão alegre assim 😂. Também notei que estava sempre vindo apenas 
 
 ![Marge Simpson 3](docs/generate-image-marge-4.png)
 
-Bravo, bravo!! 👏👏 Gostei da terceira imagem, então decidi realizar um *Upscale* dessa imagem, para trazer uma resolução maior e caprichar mais nos detalhes. Ao clicar no botão **U3**, o Midjourney inicia o processo com a terceira imagem.
+Bravo, bravo!! 👏👏 Gostei da terceira imagem, então decidi realizar um *Upscale* dessa imagem, trazendo uma resolução maior e caprichando mais nos detalhes. Ao clicar no botão **U3**, o Midjourney inicia o processo com a terceira imagem.
 
 ![Marge Simpson - Final](docs/preview-image-marge-final.png)
 
