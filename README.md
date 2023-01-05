@@ -354,6 +354,22 @@ Bravo, bravo!! 👏👏 Gostei da terceira imagem, então decidi realizar um *Up
 
 Agora que as palavras-chaves foram escolhidas, o próximo passo foi escolher as imagens dos outros Simpsons, seguindo a mesma linha de raciocínio, mudando palavras-chave de acordo com o entendimento da IA e tentando trazer a mesma linha de design para todas as personagens.
 
+### Homer
+
+![Homer  Simpson](images/homer.png)
+
+### Bart
+
+![Bart  Simpson](images/bart.png)
+
+### Lisa
+
+![Lisa  Simpson](images/lisa.png)
+
+### Maggie
+
+![Maggie  Simpson](images/maggie.png)
+
 ## Publicando o resultado
 
 Após salvar todas as imagens na pasta do projeto, subi o repositório no GitHub e ativei o GitHub Pages, disponível no link a seguir:
