@@ -22,17 +22,23 @@ Após abrir o [Chat da OpenAI](https://chat.openai.com/), a seguinte conversa fo
 
 ### Iniciando a conversa
 
-> **Paulo Salvatore:** Não sei se é lenda urbana, mas dizem que o Cartman é dublado pela mesma pessoa. Na real a lenda é que todos os personagens principais são dublados pela mesma pessoa, é real isso?
+**Dublagem dos Simpsons**
 
-> **Chat OpenAI:** Não, essa é uma lenda urbana. Cada personagem em "South Park" é dublado por um ator de voz diferente. Eric Cartman é dublado pelo ator de voz Matt Stone, enquanto os outros personagens principais, como Stan Marsh, Kyle Broflovski e Kenny McCormick, são dublados por Trey Parker, Isaac Hayes e Matt Stone, respectivamente. Além disso, há muitos outros personagens em "South Park" que são dublados por atores de voz diferentes. É comum em produções de animação que cada personagem tenha seu próprio ator de voz, a fim de dar vida a cada personagem de maneira única e especial.
+> <img src="docs/paulo-salvatore.png" /> **Paulo Salvatore:** Não sei se é lenda urbana, mas dizem que, nos simpsons, todos os personagens principais são dublados pela mesma pessoa. Isso é verdade?
 
-> **Paulo Salvatore:** Pode pá! No Rick and morty é a mesma coisa?
+> <img src="docs/ai.png" /> **Chat da OpenAI:** Não, essa é uma lenda urbana. Cada personagem em "South Park" é dublado por um ator de voz diferente. Eric Cartman é dublado pelo ator de voz Matt Stone, enquanto os outros personagens principais, como Stan Marsh, Kyle Broflovski e Kenny McCormick, são dublados por Trey Parker, Isaac Hayes e Matt Stone, respectivamente. Além disso, há muitos outros personagens em "South Park" que são dublados por atores de voz diferentes. É comum em produções de animação que cada personagem tenha seu próprio ator de voz, a fim de dar vida a cada personagem de maneira única e especial.
 
-> **Chat OpenAI:** Sim, é a mesma coisa em "Rick and Morty". Cada personagem em "Rick and Morty" é dublado por um ator de voz diferente. Rick Sanchez é dublado pelo ator de voz Justin Roiland, enquanto Morty Smith é dublado pelo ator de voz Chris Parnell. Além disso, há muitos outros personagens em "Rick and Morty" que são dublados por atores de voz diferentes, incluindo Summer Smith, Beth Smith, Jerry Smith e muitos outros. É comum em produções de animação que cada personagem tenha seu próprio ator de voz, a fim de dar vida a cada personagem de maneira única e especial.
+**Dublagem do Rick and Morty**
 
-> **Paulo Salvatore:** Quais são as profecias dos Simpsons que aconteceram na vida real?
+> <img src="docs/paulo-salvatore.png" /> **Paulo Salvatore:** Que legal! No Rick and Morty, é a mesma coisa?
 
-> **Chat OpenAI:** Os Simpsons são um programa de televisão de animação criado por Matt Groening e exibido pela primeira vez em 1989. Desde então, o programa tornou-se famoso por fazer previsões surpreendentemente precisas sobre eventos futuros. Algumas das profecias dos Simpsons que aconteceram na vida real incluem:
+> <img src="docs/ai.png" /> **Chat da OpenAI:** Sim, é a mesma coisa em "Rick and Morty". Cada personagem em "Rick and Morty" é dublado por um ator de voz diferente. Rick Sanchez é dublado pelo ator de voz Justin Roiland, enquanto Morty Smith é dublado pelo ator de voz Chris Parnell. Além disso, há muitos outros personagens em "Rick and Morty" que são dublados por atores de voz diferentes, incluindo Summer Smith, Beth Smith, Jerry Smith e muitos outros. É comum em produções de animação que cada personagem tenha seu próprio ator de voz, a fim de dar vida a cada personagem de maneira única e especial.
+
+**Profecias dos Simpsons**
+
+> <img src="docs/paulo-salvatore.png" /> **Paulo Salvatore:** Interessante. Quais foram as profecias dos Simpsons que aconteceram na vida real?
+
+> <img src="docs/ai.png" /> **Chat da OpenAI:** Os Simpsons são um programa de televisão de animação criado por Matt Groening e exibido pela primeira vez em 1989. Desde então, o programa tornou-se famoso por fazer previsões surpreendentemente precisas sobre eventos futuros. Algumas das profecias dos Simpsons que aconteceram na vida real incluem:
 >
 > 1. O episódio "Bart's Comet" (1995), em que uma cometa ameaça destruir Springfield, foi exibido antes da realização da missão espacial Deep Impact, que enviou uma nave para colidir com um cometa chamado Tempel 1.
 > 2. O episódio "Lisa's Wedding" (1995), em que Lisa se casa com um jovem chamado Hugh, previu o surgimento de aplicativos de relacionamento como o Tinder.
@@ -41,9 +47,9 @@ Após abrir o [Chat da OpenAI](https://chat.openai.com/), a seguinte conversa fo
 >
 > Essas são apenas algumas das profecias dos Simpsons que aconteceram na vida real. É importante notar que, embora os Simpsons tenham sido bem-sucedidos em prever alguns eventos futuros, eles também têm incorrido em erros, como em seu episódio "Bart's Girlfriend" (1994), em que eles previram que o cantor Tony Bennett morreria em 1994. Bennett, felizmente, ainda está vivo e atuando.
 
-> **Paulo Salvatore:** Manda mais pa nóis ae, please
+> <img src="docs/paulo-salvatore.png" /> **Paulo Salvatore:** Manda mais pa nóis ae, please!
 
-> **Chat OpenAI:** Claro! Aqui estão alguns outros exemplos de profecias dos Simpsons que aconteceram na vida real:
+> <img src="docs/ai.png" /> **Chat da OpenAI:** Claro! Aqui estão alguns outros exemplos de profecias dos Simpsons que aconteceram na vida real:
 >
 > 5. O episódio "Marge in Chains" (1993), em que Springfield é afetada por uma epidemia de gripe, previu a pandemia de gripe H1N1 de 2009.
 > 6. O episódio "Homer's Phobia" (1997), em que Homer se torna um colecionador de antiguidades, previu o aumento da popularidade de programas de TV como "Antiques Roadshow".
@@ -54,23 +60,15 @@ Após abrir o [Chat da OpenAI](https://chat.openai.com/), a seguinte conversa fo
 >
 > Essas são apenas algumas das muitas profecias dos Simpsons que aconteceram na vida real. É importante lembrar que essas profecias aconteceram porque os criadores dos Simpsons são muito observadores e têm um bom senso de humor, e não porque eles têm algum tipo de poder sobrenatural.
 
-> **Paulo Salvatore:** Vc consegue me dizer qual o número de profecias existentes?
-
-> **Chat OpenAI:** É difícil determinar um número exato de profecias dos Simpsons, pois o programa já esteve no ar por mais de 30 anos e tem mais de 600 episódios. Além disso, o que é considerado uma "profecia" é subjetivo e pode variar de pessoa para pessoa. Algumas pessoas podem considerar qualquer previsão surpreendentemente precisa em um episódio como uma profecia, enquanto outras podem ser mais exigentes e considerar apenas previsões que aconteceram anos depois de um episódio ter sido exibido.
->
-> Com isso em mente, é seguro dizer que há muitas profecias nos Simpsons, e o programa tem sido bem-sucedido em prever alguns eventos futuros de maneira surpreendentemente precisa. No entanto, é importante lembrar que os Simpsons também incorreram em erros, e que as profecias do programa são mais uma demonstração de sua observação atenta e senso de humor do que de qualquer tipo de poder sobrenatural.
-
-> **Paulo Salvatore:** Legal. Mas quantas profecias dos simpsons você conhece?
-
-> **Chat OpenAI:** Eu conheço algumas das profecias dos Simpsons que já mencionei, como o episódio "Bart's Comet" (1995), que previu a missão espacial Deep Impact, o episódio "Lisa's Wedding" (1995), que previu o surgimento de aplicativos de relacionamento como o Tinder, o episódio "Bart to the Future" (2000), que previu a eleição de Barack Obama como o primeiro presidente afro-americano dos EUA, e o episódio "The Great Phatsby" (2017), que previu o surgimento de cassinos em Massachusetts. Além disso, conheço outras profecias dos Simpsons, como o episódio "Marge in Chains" (1993), que previu a pandemia de gripe H1N1 de 2009, e o episódio "Homer's Phobia" (1997), que previu o aumento da popularidade de programas de TV como "Antiques Roadshow" e "American Pickers".
->
-> No entanto, é importante lembrar que os Simpsons têm mais de 600 episódios e que eu não posso afirmar ter conhecimento de todas as profecias do programa. Além disso, o que é considerado uma "profecia" é subjetivo e pode variar de pessoa para pessoa, então algumas pessoas podem considerar previsões diferentes como profecias dos Simpsons.
+____
 
 ### Solicitando o primeiro código: HTML básico
 
-> **Paulo Salvatore:** Interessante. Por gentileza, gere um código de um site básico com algum elemento da nossa conversa que você considere relevante.
+Agora que conversei bastante com a IA sobre assuntos aleatórios, decidi sintetizar a nossa conversa em um site. Pedi para ela escolher um elemento relevante da nossa conversa e solicitei a geração de um código para o meu site.
 
->  **Chat OpenAI:** Claro! Aqui está um código HTML básico que inclui alguns elementos da nossa conversa sobre os Simpsons:
+> <img src="docs/paulo-salvatore.png" /> **Paulo Salvatore:** Interessante. Por gentileza, gere um código de um site básico com algum elemento da nossa conversa que você considere relevante.
+
+>  <img src="docs/ai.png" /> **Chat da OpenAI:** Claro! Aqui está um código HTML básico que inclui alguns elementos da nossa conversa sobre os Simpsons:
 >
 > ```html
 > <!DOCTYPE html>
@@ -99,11 +97,15 @@ Após abrir o [Chat da OpenAI](https://chat.openai.com/), a seguinte conversa fo
 
 ![Preview do código com HTML básico](docs/preview-html.png)
 
+____
+
 ### Melhorando a estilização: CSS básico
 
-> **Paulo Salvatore:** Gere o arquivo de estilização para essa página.
+Agora que o código do site básico já está gerando, mesmo que esteja um pouco sem graça e sem cores, vamos pedir pra IA dar uma melhorada no visual.
 
-> **Chat OpenAI:** Claro! Aqui está um arquivo CSS que pode ser usado para estilizar a página HTML básica que eu criei anteriormente:
+> <img src="docs/paulo-salvatore.png" /> **Paulo Salvatore:** Gere o arquivo de estilização para essa página.
+
+> <img src="docs/ai.png" /> **Chat da OpenAI:** Claro! Aqui está um arquivo CSS que pode ser usado para estilizar a página HTML básica que eu criei anteriormente:
 >
 > ```css
 > body {
@@ -139,11 +141,15 @@ Após abrir o [Chat da OpenAI](https://chat.openai.com/), a seguinte conversa fo
 
 ![Preview do código com CSS básico](docs/preview-css.png)
 
+____
+
 ### Deixando o site mais moderno: Framework de CSS
 
->  **Paulo Salvatore:** Eu acho que dá pra melhorar esse estilo e tentar deixar algo mais moderno, talvez utilizando algum framework de CSS.
+Trouxe um pouco mais de cor, mas nenhum pouco moderno, bora pedir pra embelezar isso daí!
 
-> **Chat Open AI:** Claro! Se você quiser dar uma aparência mais moderna à sua página HTML sobre os Simpsons, pode considerar usar um framework de CSS, como o Bootstrap ou o Materialize. Esses frameworks fornecem uma variedade de componentes pré-estilizados e recursos de layout que podem ajudá-lo a criar uma página web moderna e atraente de forma rápida e fácil.
+>  <img src="docs/paulo-salvatore.png" /> **Paulo Salvatore:** Eu acho que dá pra melhorar esse estilo e tentar deixar algo mais moderno, talvez utilizando algum framework de CSS.
+
+> <img src="docs/ai.png" /> **Chat da OpenAI:** Claro! Se você quiser dar uma aparência mais moderna à sua página HTML sobre os Simpsons, pode considerar usar um framework de CSS, como o Bootstrap ou o Materialize. Esses frameworks fornecem uma variedade de componentes pré-estilizados e recursos de layout que podem ajudá-lo a criar uma página web moderna e atraente de forma rápida e fácil.
 >
 > Aqui está um exemplo de como você poderia usar o Bootstrap para estilizar a página HTML que eu criei anteriormente:
 >
@@ -168,11 +174,15 @@ Após abrir o [Chat da OpenAI](https://chat.openai.com/), a seguinte conversa fo
 >         <
 > ```
 
-Nesse ponto, a IA parou de enviar informações no meio da mensagem, provavelmente atingiu o tempo limite de resposta.
+____
 
-> **Paulo Salvatore:** Continue de onde parou
+Nesse ponto, a IA parou de enviar informações no meio da mensagem, provavelmente atingiu o tempo limite de resposta. Como ela devolve um máximo de quantidade de caracteres, chega uma hora que estoura o limite mesmo. O limite pode ser 2048 ou 4096, no caso do ChatGPT atualmente, mas dependendo da IA, esse número pode ser bem diferente.
 
-> **Chat Open AI:** Claro! Aqui está o resto do código HTML que usei o Bootstrap para estilizar a página HTML sobre os Simpsons:
+No entanto, para prosseguir, basta pedir para que ela continue de onde parou, que a última mensagem é lembrada sem problemas.
+
+> <img src="docs/paulo-salvatore.png" /> **Paulo Salvatore:** Continue de onde parou
+
+> <img src="docs/ai.png" /> **Chat da OpenAI:** Claro! Aqui está o resto do código HTML que usei o Bootstrap para estilizar a página HTML sobre os Simpsons:
 >
 > ```html
 >         <li>O episódio "Lisa's Wedding" (1995), em que Lisa se casa com um jovem chamado Hugh, previu o surgimento de aplicativos de relacionamento como o Tinder.</li>
@@ -186,11 +196,15 @@ Nesse ponto, a IA parou de enviar informações no meio da mensagem, provavelmen
 > </html>
 > ```
 >
-> Espero que isso ajude! Se tiver mais alguma dúvida, sinta-se à vontade para per
+> Espero que isso ajude! Se tiver mais alguma dúvida, sinta-se à vontade para perguntar.
 
-> **Paulo Salvatore:** Gostaria de adicionar alguns cards para melhorar a diagramação da informação, talvez algumas imagens ilustrativas, um cabeçalho.
+### Utilizando mais recursos do framework Bootstrap
 
-> **Chat OpenAI:** Claro! Aqui está um exemplo de como você poderia usar o Bootstrap para adicionar cards e imagens à página HTML sobre os Simpsons:
+Nesse momento, a IA utilizou o bootstrap, mas fez um uso muito simplório, sem colocar cards ou imagens. Decidi pedir para ela melhorar e tentar trazer uma estrutura um pouco mais bem elaborada. Esse foi o resultado:
+
+> <img src="docs/paulo-salvatore.png" /> **Paulo Salvatore:** Gostaria de adicionar alguns cards para melhorar a diagramação da informação, talvez algumas imagens ilustrativas, um cabeçalho.
+
+> <img src="docs/ai.png" /> **Chat da OpenAI:** Claro! Aqui está um exemplo de como você poderia usar o Bootstrap para adicionar cards e imagens à página HTML sobre os Simpsons:
 >
 > ```html
 > <!DOCTYPE html>
@@ -210,14 +224,6 @@ Nesse ponto, a IA parou de enviar informações no meio da mensagem, provavelmen
 >           <div class="card mb-4">
 >             <img src="homer.jpg" class="card-img-top" alt="Foto de Homer Simpson">
 >             <div class="card-body">
->               <
-> ```
-
-> **Paulo Salvatore:** Continue
-
-> **Chat OpenAI:** Claro! Aqui está o resto do código HTML que usei o Bootstrap para adicionar cards e imagens à página HTML sobre os Simpsons:
->
-> ```html
 >               <h5 class="card-title">Homer Simpson</h5>
 >               <p class="card-text">Pai da família Simpson e trabalhador da central nuclear de Springfield.</p>
 >               <p class="card-text"><small class="text-muted">Dublado por Dan Castellaneta</small></p>
@@ -247,13 +253,6 @@ Nesse ponto, a IA parou de enviar informações no meio da mensagem, provavelmen
 >       </div>
 >       <div class="row">
 >         <div class="col-md-4">
-> ```
-
-> **Paulo Salvatore:** Continue
-
-> **Chat OpenAI:** Claro! Aqui está o resto do código HTML que usei o Bootstrap para adicionar cards e imagens à página HTML sobre os Simpsons:
->
-> ```html
 >           <div class="card mb-4">
 >             <img src="lisa.jpg" class="card-img-top" alt="Foto de Lisa Simpson">
 >             <div class="card-body">
@@ -268,15 +267,7 @@ Nesse ponto, a IA parou de enviar informações no meio da mensagem, provavelmen
 >             <img src="maggie.jpg" class="card-img-top" alt="Foto de Maggie Simpson">
 >             <div class="card-body">
 >               <h5 class="card-title">Maggie Simpson</h5>
->               <p class="card-text">Filha mais nova da família
-> ```
-
-> **Paulo Salvatore:** Continue
-
-> **Chat OpenAI:** Claro! Aqui está o resto do código HTML que usei o Bootstrap para adicionar cards e imagens à página HTML sobre os Simpsons:
->
-> ```html
-> Simpson e bebê.</p>
+>               <p class="card-text">Filha mais nova da família Simpson e bebê.</p>
 >               <p class="card-text"><small class="text-muted">Dublada por Elizabeth Taylor</small></p>
 >             </div>
 >           </div>
@@ -287,15 +278,7 @@ Nesse ponto, a IA parou de enviar informações no meio da mensagem, provavelmen
 >       <ul>
 >         <li>O episódio "Bart's Comet" (1995), em que uma cometa ameaça destruir Springfield, foi exibido antes da realização da missão espacial Deep Impact, que enviou uma nave para colidir com um cometa chamado Tempel 1.</li>
 >         <li>O episódio "Lisa's Wedding" (1995), em que Lisa se casa com um jovem chamado Hugh, previu o surgimento de aplicativos de relacionamento como o Tinder.</li>
->         <li>O episódio "Bart to the Future" (2000), em que Lisa Simpson é eleita presidente dos Est
-> ```
-
-> **Paulo Salvatore:** Continue
-
-> **Chat OpenAI:** Claro! Aqui está o resto do código HTML que usei o Bootstrap para adicionar cards e imagens à página HTML sobre os Simpsons:
->
-> ```html
-> ados Unidos, previu a eleição de Barack Obama como o primeiro presidente afro-americano dos EUA.</li>
+>         <li>O episódio "Bart to the Future" (2000), em que Lisa Simpson é eleita presidente dos Estados Unidos, previu a eleição de Barack Obama como o primeiro presidente afro-americano dos EUA.</li>
 >         <li>O episódio "The Great Phatsby" (2017), em que o Sr. Burns constrói um cassino, previu o surgimento de cassinos em Massachusetts.</li>
 >       </ul>
 >     </div>
@@ -317,9 +300,9 @@ Hora de conferir o resultado. Note que o caminho gerado para as imagens não fun
 
 Para contornar isso, decidi pedir a URL para uma imagem do Homer. Nesse ponto, eu já imaginava que esse resultado não viria, pois o ChatGPT evita trazer links de recursos externos. No entanto, como ela gerou a URL completa do Bootstrap, decidi fazer uma tentativa.
 
-> **Paulo Salvatore:** Me traga uma URL completa da imagem do Homer
+> <img src="docs/paulo-salvatore.png" /> **Paulo Salvatore:** Me traga uma URL completa da imagem do Homer
 
-> **Chat OpenAI:** Desculpe, mas eu não tenho acesso a imagens da internet. No entanto, você pode procurar por imagens do Homer Simpson na internet usando um mecanismo de busca, como o Google Imagens. Isso deve lhe fornecer uma variedade de opções de imagens para escolher.
+> <img src="docs/ai.png" /> **Chat da OpenAI:** Desculpe, mas eu não tenho acesso a imagens da internet. No entanto, você pode procurar por imagens do Homer Simpson na internet usando um mecanismo de busca, como o Google Imagens. Isso deve lhe fornecer uma variedade de opções de imagens para escolher.
 >
 > Algumas dicas para encontrar imagens de qualidade incluem usar palavras-chave específicas, filtrar os resultados por tipo de imagem ou usar sites especializados em imagens, como o Pexels ou o Unsplash.
 >
