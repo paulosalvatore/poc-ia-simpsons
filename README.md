@@ -24,7 +24,7 @@ Após abrir o [Chat da OpenAI](https://chat.openai.com/), a seguinte conversa fo
 
 **Dublagem dos Simpsons**
 
-> <img src="docs/paulo-salvatore.png" /> **Paulo Salvatore:** Não sei se é lenda urbana, mas dizem que, nos simpsons, todos os personagens principais são dublados pela mesma pessoa. Isso é verdade?
+> <img src="docs/paulo-salvatore.png" /> **Paulo Salvatore:** Não sei se é lenda urbana, mas dizem que, no south park, todos os personagens principais são dublados pela mesma pessoa. Isso é verdade?
 
 > <img src="docs/ai.png" /> **Chat da OpenAI:** Não, essa é uma lenda urbana. Cada personagem em "South Park" é dublado por um ator de voz diferente. Eric Cartman é dublado pelo ator de voz Matt Stone, enquanto os outros personagens principais, como Stan Marsh, Kyle Broflovski e Kenny McCormick, são dublados por Trey Parker, Isaac Hayes e Matt Stone, respectivamente. Além disso, há muitos outros personagens em "South Park" que são dublados por atores de voz diferentes. É comum em produções de animação que cada personagem tenha seu próprio ator de voz, a fim de dar vida a cada personagem de maneira única e especial.
 
